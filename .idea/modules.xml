@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GenericTasks/GenericTasks.iml" filepath="$PROJECT_DIR$/GenericTasks/GenericTasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OptionalTask/OptionalTask.iml" filepath="$PROJECT_DIR$/OptionalTask/OptionalTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PackageTask/PackageTask.iml" filepath="$PROJECT_DIR$/PackageTask/PackageTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/W4DSKI-105-Tasks.iml" filepath="$PROJECT_DIR$/W4DSKI-105-Tasks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deathstar.core/deathstar.core.iml" filepath="$PROJECT_DIR$/deathstar.core/deathstar.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deathstar.defense/deathstar.defense.iml" filepath="$PROJECT_DIR$/deathstar.defense/deathstar.defense.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deathstar.weapon/deathstar.weapon.iml" filepath="$PROJECT_DIR$/deathstar.weapon/deathstar.weapon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deathstore.imperator/deathstore.imperator.iml" filepath="$PROJECT_DIR$/deathstore.imperator/deathstore.imperator.iml" />
+    </modules>
+  </component>
+</project>
