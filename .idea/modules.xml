@@ -4,8 +4,11 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/GenericTasks/GenericTasks.iml" filepath="$PROJECT_DIR$/GenericTasks/GenericTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListTask/ListTask.iml" filepath="$PROJECT_DIR$/ListTask/ListTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapTask/MapTask.iml" filepath="$PROJECT_DIR$/MapTask/MapTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/OptionalTask/OptionalTask.iml" filepath="$PROJECT_DIR$/OptionalTask/OptionalTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackageTask/PackageTask.iml" filepath="$PROJECT_DIR$/PackageTask/PackageTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueTask/QueueTask.iml" filepath="$PROJECT_DIR$/QueueTask/QueueTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SetTask/SetTask.iml" filepath="$PROJECT_DIR$/SetTask/SetTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/W4DSKI-105-Tasks.iml" filepath="$PROJECT_DIR$/W4DSKI-105-Tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/deathstar.core/deathstar.core.iml" filepath="$PROJECT_DIR$/deathstar.core/deathstar.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/deathstar.defense/deathstar.defense.iml" filepath="$PROJECT_DIR$/deathstar.defense/deathstar.defense.iml" />
