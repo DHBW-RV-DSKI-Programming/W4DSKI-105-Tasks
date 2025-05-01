@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ComparableTask/ComparableTask.iml" filepath="$PROJECT_DIR$/ComparableTask/ComparableTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericTasks/GenericTasks.iml" filepath="$PROJECT_DIR$/GenericTasks/GenericTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListTask/ListTask.iml" filepath="$PROJECT_DIR$/ListTask/ListTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/MapTask/MapTask.iml" filepath="$PROJECT_DIR$/MapTask/MapTask.iml" />
