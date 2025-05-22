@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ExceptionTask/ExceptionTask.iml" filepath="$PROJECT_DIR$/ExceptionTask/ExceptionTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericTasks/GenericTasks.iml" filepath="$PROJECT_DIR$/GenericTasks/GenericTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/KassiopeiaTask/KassiopeiaTask.iml" filepath="$PROJECT_DIR$/KassiopeiaTask/KassiopeiaTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaTask/LambdaTask.iml" filepath="$PROJECT_DIR$/LambdaTask/LambdaTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListTask/ListTask.iml" filepath="$PROJECT_DIR$/ListTask/ListTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/MapTask/MapTask.iml" filepath="$PROJECT_DIR$/MapTask/MapTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/OptionalTask/OptionalTask.iml" filepath="$PROJECT_DIR$/OptionalTask/OptionalTask.iml" />
@@ -14,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/SearchTask/SearchTask.iml" filepath="$PROJECT_DIR$/SearchTask/SearchTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetTask/SetTask.iml" filepath="$PROJECT_DIR$/SetTask/SetTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortTask/SortTask.iml" filepath="$PROJECT_DIR$/SortTask/SortTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamTask/StreamTask.iml" filepath="$PROJECT_DIR$/StreamTask/StreamTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/W4DSKI-105-Tasks.iml" filepath="$PROJECT_DIR$/W4DSKI-105-Tasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/deathstar.core/deathstar.core.iml" filepath="$PROJECT_DIR$/deathstar.core/deathstar.core.iml" />
       <module fileurl="file://$PROJECT_DIR$/deathstar.defense/deathstar.defense.iml" filepath="$PROJECT_DIR$/deathstar.defense/deathstar.defense.iml" />
