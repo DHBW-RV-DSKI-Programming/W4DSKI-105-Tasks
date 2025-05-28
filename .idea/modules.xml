@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/OptionalTask/OptionalTask.iml" filepath="$PROJECT_DIR$/OptionalTask/OptionalTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/PackageTask/PackageTask.iml" filepath="$PROJECT_DIR$/PackageTask/PackageTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/QueueTask/QueueTask.iml" filepath="$PROJECT_DIR$/QueueTask/QueueTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexTask/RegexTask.iml" filepath="$PROJECT_DIR$/RegexTask/RegexTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/SearchTask/SearchTask.iml" filepath="$PROJECT_DIR$/SearchTask/SearchTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/SetTask/SetTask.iml" filepath="$PROJECT_DIR$/SetTask/SetTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortTask/SortTask.iml" filepath="$PROJECT_DIR$/SortTask/SortTask.iml" />
