@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/ComparableTask/ComparableTask.iml" filepath="$PROJECT_DIR$/ComparableTask/ComparableTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/ComparatorTask/ComparatorTask.iml" filepath="$PROJECT_DIR$/ComparatorTask/ComparatorTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionTask/ExceptionTask.iml" filepath="$PROJECT_DIR$/ExceptionTask/ExceptionTask.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FileOperationTask/FileOperationTask.iml" filepath="$PROJECT_DIR$/FileOperationTask/FileOperationTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/GenericTasks/GenericTasks.iml" filepath="$PROJECT_DIR$/GenericTasks/GenericTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/KassiopeiaTask/KassiopeiaTask.iml" filepath="$PROJECT_DIR$/KassiopeiaTask/KassiopeiaTask.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaTask/LambdaTask.iml" filepath="$PROJECT_DIR$/LambdaTask/LambdaTask.iml" />
